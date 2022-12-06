@@ -1,0 +1,1 @@
+# Projects for the course [Scrimba Clean Code](https://scrimba.com/learn/cleancode/)
