@@ -1,0 +1,23 @@
+{
+  "name": "introduction-to-linters",
+  "version": "0.1.0",
+  "description": "add eslint to a project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Salar Hafezi",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
